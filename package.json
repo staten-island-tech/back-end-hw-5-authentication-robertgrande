@@ -1,0 +1,30 @@
+{
+  "name": "back-end-hw-5-authentication-robertgrande",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/staten-island-tech/back-end-hw-5-authentication-robertgrande.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/staten-island-tech/back-end-hw-5-authentication-robertgrande/issues"
+  },
+  "homepage": "https://github.com/staten-island-tech/back-end-hw-5-authentication-robertgrande#readme",
+  "dependencies": {
+    "@hapi/joi": "^17.1.0",
+    "bcrypt": "^3.0.7",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "js": "^0.1.0",
+    "mongoose": "^5.8.11"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
