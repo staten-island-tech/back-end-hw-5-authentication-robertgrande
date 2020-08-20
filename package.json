@@ -18,7 +18,7 @@
   "homepage": "https://github.com/staten-island-tech/back-end-hw-5-authentication-robertgrande#readme",
   "dependencies": {
     "@hapi/joi": "^17.1.0",
-    "bcrypt": "^3.0.7",
+    "bcrypt": "^5.0.0",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "js": "^0.1.0",
